@@ -5,7 +5,7 @@ import React from "react";
 
 const Navbar: React.FC<{}> = () => {
   return (
-    <div className="w-full h-[65px] bg-['#111'] fixed backdrop-blur-sm z-50 px-10">
+    <div className="w-full h-[90px] bg-['#111'] fixed backdrop-blur-sm z-50 px-10">
       <div className="w-full h-full flex flex-row items-center justify-between m-auto px-[10px]">
         <a
           title="ibrahim logo"
@@ -13,11 +13,11 @@ const Navbar: React.FC<{}> = () => {
           className="h-auto w-auto flex flex-row items-center"
         >
           <Image
-            src="/Logo.svg"
+            src="/Logo.png"
             alt="Ibrahim Memon - Developer"
-            width={100}
-            height={100}
-            sizes="100vw"
+            width={50}
+            height={50}
+            sizes="15vw"
             className="w-full h-auto"
           />
         </a>

@@ -13,16 +13,14 @@ const About: React.FC<{}> = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a passionate software engineer, I thrive on the intricate dance
-          between logic and creativity. Currently immersed in the dynamic world
-          of WebHR, my expertise centers around React Native, where I seamlessly
-          blend technology with innovation.
+          As a passionate computer science student, I thrive at the intersection 
+          of technology and creativity. Currently pursuing a Specialized Technician
+          degree in Full-Stack Development at EFET, I am eager to learn and expand my skill set. 
           <br />
           <br />
-          With a fervor for crafting elegant solutions, I navigate the
-          ever-evolving landscape of software development. My journey involves
-          translating concepts into code, creating seamless user experiences,
-          and constantly pushing the boundaries of what&#39;s possible
+          With a drive for building seamless and efficient 
+          digital solutions, I navigate the ever-evolving world of web 
+          development, transforming ideas into impactful user experiences.
         </p>
       </div>
     </section>

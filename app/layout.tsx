@@ -9,31 +9,31 @@ import Navbar from "@/components/Navbar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://ibiimemon.com/"),
-  title: "Ibrahim Memon - SWE | IXD | UX - Developer Portfolio",
+  metadataBase: new URL("https://ibiimohamed.com/"),
+  title: "Mohamed Ganine - Developer Portfolio",
   description:
     "Developer Portfolio of Frontend & Mobile App Developer from Pakistan with 3+ years of expertise. Senior Software Engineer. Specializing mobile apps, UX, and JavaScript technologies.",
   keywords: [
     "Developer",
     "Portfolio",
     "Developer Portflio",
-    "Ibrahim Memon",
-    "Ibrahim",
-    "IbiiMemon",
-    "IbrahimMemon",
-    "Ibrahim_Memon",
+    "Mohamed Ganine",
+    "Ganine",
+    "Ganimohamed",
+    "Ganinemohamed",
+    "Ganine_mohamed",
     "Next.js",
     "ReactNative",
     "Android",
   ],
   openGraph: {
-    title: "Ibrahim Memon - SWE | IXD | UX",
+    title: "Mohamed Ganine - SWE | IXD | UX",
     description:
       "Frontend & Mobile App Developer from Pakistan with 3+ years of expertise. Senior Software Engineer. Specializing mobile apps, UX, and JavaScript technologies.",
     images: "/OpenGraph.jpg",
   },
   alternates: {
-    canonical: "https://ibiimemon.com/",
+    canonical: "https://ibiimohamed.com/",
   },
 };
 export default function RootLayout({
@@ -50,12 +50,12 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "http://schema.org",
               "@type": "Person",
-              name: "Ibrahim Memon",
+              name: "Mohamed Ganine",
               jobTitle: "Software Engineer",
-              url: "https://ibiimemon.com",
+              url: "https://ibiimohamed.com",
               sameAs: [
-                "https://www.linkedin.com/in/ibrahimmemonn/",
-                "https://github.com/ibrahimmemonn",
+                "https://www.linkedin.com/in/Ganinemohamedn/",
+                "https://github.com/Ganinemohamedn",
               ],
             }),
           }}

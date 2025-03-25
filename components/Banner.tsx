@@ -13,12 +13,12 @@ const Banner: React.FC<{}> = () => {
             src="/Me.png"
             height={250}
             width={250}
-            alt="Ibrahim Memon"
+            alt="Mohamed Ganine"
           />
         </div>
 
-        <div className="flex flex-col gap-6 mt-10 cursor-pointer animate-bounce tracking-tighter text-7xl font-semibold text-white max-w-[600px] w-auto h-auto">
-          Ibrahim Memon!
+        <div className="flex flex-col gap-6 mt-10 cursor-pointer animate-bounce tracking-tighter text-6xl font-semibold text-white max-w-[600px] w-auto h-auto">
+          Mohamed Ganine!
         </div>
         <div className="flex justify-center">
           <p className="text-2xl font-medium tracking-tighter  text-gray-300 max-w-[600px]">
@@ -36,12 +36,12 @@ const Banner: React.FC<{}> = () => {
         </div>
 
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Passionate Software Engineer with a focus on React Native development,
-          dedicated to crafting elegant and user-friendly mobile applications.
+          Passionate Full-Stack Developer dedicated to building seamless and 
+          scalable web applications
         </p>
         <div className="text-md flex justify-center">
           <button
-            onClick={() => window.open("mailto:ibrahimmemon930@gmail.com")}
+            onClick={() => window.open("mailto:mohamedganine00@gmail.com")}
             className=" z-[1]     padding-20  hover:bg-white rounded-3xl  text-white font-semibold hover:text-black py-3 px-10  border-[0.1px] border-white hover:border-transparent "
           >
             Contact Me
