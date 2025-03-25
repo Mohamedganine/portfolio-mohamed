@@ -30,9 +30,9 @@ const Experience: React.FC<{}> = () => {
 
         <p className="text-gray-300 pt-5">
           During my internship at Click Doc, I was responsible for developing 
-          the company's corporate website. Additionally, I worked as part of a team 
+          the company&apos;s corporate website. Additionally, I worked as part of a team 
           on the creation of Click Lab, an innovative service that enables laboratories to offer
-          home medical testing by sending specialists to collect samples from patients' homes. 
+          home medical testing by sending specialists to collect samples from patients homes. 
           Both projects were developed using WordPress, where I contributed to website design, 
           template customization, 
           and the integration of necessary features to enhance user experience.
@@ -70,7 +70,7 @@ const Experience: React.FC<{}> = () => {
         In my experience with Cretikon, I was responsible for 
         the WordPress side of creating and developing websites. I contributed to website 
         design, template customization, and performance optimization based on client needs. 
-        Additionally, I played a key role in completing projects for the company's clients, 
+        Additionally, I played a key role in completing projects for the company&apos;s clients, 
         allowing me to gain hands-on experience in order management, improving websites for 
         search engines, and collaborating with a team to deliver effective digital solutions.
           <br />
